@@ -1,2 +1,2 @@
-# TechLearn
+# TechLearnNow
 Let's Learn Technical Skills!
